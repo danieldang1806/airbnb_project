@@ -15,4 +15,11 @@ Find out the factors that impact the value rating score, including:
 - Size of listing
 - Competitive rate
 - Number of properties managed
-- Amenities
+- Amenities <br><br>
+
+
+**Note** 
+
+Please kindly have a look to 2 files of this project in this repository, including: 
+- Python notebook
+- Final presentation with Tableau visualization
