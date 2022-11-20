@@ -1,7 +1,7 @@
 # Airbnb Value Rating: What are the influential factors? <br><br>
 
 
-**Note**: Please kindly have a look to 2 files of this project, including: 
+**Note**: Please kindly have a look at 2 files of this project, including: 
 - Python notebook (saved in the project repository)
 - Final presentation with Tableau visualization as [link](https://drive.google.com/file/d/1E3zvXIBPE1w54g08CEMQbyvgZ3Ql46nY/view?usp=sharing) <br><br>
 
