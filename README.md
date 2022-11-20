@@ -3,7 +3,7 @@
 
 **Note**: Please kindly have a look at 2 files of this project, including: 
 - Python notebook (saved in the project repository)
-- Final presentation with Tableau visualization as [link](https://drive.google.com/file/d/1E3zvXIBPE1w54g08CEMQbyvgZ3Ql46nY/view?usp=sharing) <br><br>
+- Final presentation with Tableau visualization as [link](https://drive.google.com/file/d/1E3zvXIBPE1w54g08CEMQbyvgZ3Ql46nY/view?usp=sharing) (it's also saved in the repository as well) <br><br>
 
 
 **Background**: Out of 6 ratings, why do I choose "value rating"? <br> 
